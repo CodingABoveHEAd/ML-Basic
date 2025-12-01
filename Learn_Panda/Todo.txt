@@ -1,0 +1,9 @@
+✔ Loading data
+✔ Inspecting data
+✔ Selecting/filtering
+✔ Cleaning missing values
+✔ Feature engineering
+✔ Groupby & aggregate
+✔ Merging data
+✔ Sorting & indexing
+✔ Quick plots
