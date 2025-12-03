@@ -1,6 +1,0 @@
-id
-title
-release_date
-video
-popularity
-vote_average
